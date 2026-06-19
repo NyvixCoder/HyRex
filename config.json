@@ -1,6 +1,6 @@
 {
   "cheat_version": "1.5.0",
   "loader_version": "1.0.3",
-  "maintenance": false,
+  "maintenance": true,
   "announcement": "Обновление 1.1"
 }
